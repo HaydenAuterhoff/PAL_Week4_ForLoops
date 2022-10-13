@@ -6,7 +6,7 @@
 
 #define LEAP_YEAR 4
 
-int main()
+int main() //Hello World
 {
 	int yearOne;
 	int yearTwo;
